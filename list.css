@@ -1,0 +1,6 @@
+ol{
+    list-style: circle;
+    list-style: upper-alpha;
+    list-style-position:insides;
+    list-style:url(.....);
+}

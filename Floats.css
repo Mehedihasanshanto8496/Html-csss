@@ -1,0 +1,34 @@
+.img1{
+    width: 100px;
+    float: left;
+    
+
+}
+div{
+    float: left;
+    float: right;
+}
+.box1{
+
+    width: 400px;
+    height: 200px;
+    background-color: black;
+}
+.box2{
+    
+    width: 400px;
+    height: 200px;
+    background-color: red;
+}
+.box3{
+    
+    width: 400px;
+    height: 200px;
+    background-color: green;
+}
+.box4{
+    
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+}

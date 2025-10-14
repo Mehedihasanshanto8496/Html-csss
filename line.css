@@ -1,0 +1,15 @@
+.p1{
+    background-color:green;
+    border-width: 10px;
+    broder-style:solid;
+
+}
+#p2{
+    background-color: aqua;
+    birder-width:30px;
+    border-color: green;
+    border-style: dotted;
+    border-radius: 20px;
+
+
+}

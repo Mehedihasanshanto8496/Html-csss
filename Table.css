@@ -1,0 +1,10 @@
+Table,td,th{
+    border-color: green;
+    border-width: 20px;
+}
+td{
+    background-color:aqua ;
+}
+th{
+    background-color: yellow;
+}
