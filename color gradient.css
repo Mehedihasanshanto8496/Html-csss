@@ -1,0 +1,9 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(66, 167, 245,.5);       //.5 is opacity //
+}
+p{
+    color: #e042f5;
+}
