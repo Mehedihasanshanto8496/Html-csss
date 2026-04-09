@@ -1,0 +1,15 @@
+.sprite{
+    width: 54px;
+   height: 58px;
+   background-image: url(sprite.png); 
+   background-repeat: no-repeat;
+   background-position: -108px -42px;
+  border-radius: 50%;
+  
+
+}
+.sprite:hover{
+    background-position: -154px -42px;
+    transition: 2s; 
+
+}
