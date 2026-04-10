@@ -1,0 +1,17 @@
+.Box{
+    background-color: #785f72;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    transform: rotate(45deg);
+    margin: 30px auto;
+    transform: skewX(20deg);
+
+}
+.Box h2{
+    margin: 50px auto;
+    color: #47a17e;
+    font-size: 50px; 
+    top: 40%;
+    transform: scale(.4);
+}
